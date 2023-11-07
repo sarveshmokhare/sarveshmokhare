@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Sarvesh. Welcome to My GitHub Profile!
 
+[![Sarvesh Mokhare's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshmokhare&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🚀 About Me
 I'm Sarvesh Mokhare, a passionate and curious developer pursuing by B.Tech from **IIT Hyderabad**. I am currently the **Technical Manager** at Office of Career Services (OCS), IIT Hyderabad. With a deep-rooted love for problem-solving and a relentless desire to learn, I'm constantly pushing my limits to create software that not only works but also amazes.
 
@@ -17,5 +19,3 @@ I'm Sarvesh Mokhare, a passionate and curious developer pursuing by B.Tech from 
 
 ### 🎉 Thanks for Dropping By!
 Happy coding! 🚀👨‍💻🤖
-
-[![Sarvesh Mokhare's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshmokhare&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
